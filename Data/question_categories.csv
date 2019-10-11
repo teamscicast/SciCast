@@ -1,0 +1,23 @@
+id,name,desc,created_at,updated_at,is_topic,is_selectable
+14,Transportation,NULL,38:23.7,38:23.7,TRUE,NULL
+15,Study 2.1,SciCast Study 2.1 compares scicast to quantitative models.,12:57.5,12:57.5,FALSE,TRUE
+16,GWU-EMSE-6030,For students in Prof. Ryan's 2014 course,45:24.5,45:24.5,FALSE,TRUE
+17,SciCast,Questions about SciCast itself.,45:03.2,45:03.2,FALSE,FALSE
+19,Prize-Eligible Nov & Jan,Scores on trades from Nov 7 thru Dec 6 contribute to ranking for top prizes.,25:06.6,35:39.8,FALSE,FALSE
+20,Prize-Eligible Dec & Feb,Scores on trades from Dec 7 thru Jan 6 contribute to ranking for top prizes.,20:05.0,52:00.1,FALSE,FALSE
+13,Business of Science,NULL,38:10.1,11:40.8,TRUE,TRUE
+21,New Prize-Eligible Feb,New questions for Feb,25:54.4,25:54.4,TRUE,TRUE
+1,Global Change,NULL,28:51.6,28:51.6,TRUE,NULL
+2,Physics,NULL,29:01.5,29:01.5,TRUE,NULL
+3,Chemistry,NULL,29:12.7,29:12.7,TRUE,NULL
+4,Computational Sciences,NULL,32:17.0,32:17.0,TRUE,NULL
+5,Information Systems,NULL,32:28.5,32:28.5,TRUE,NULL
+6,Agriculture,NULL,32:40.4,32:40.4,TRUE,NULL
+7,Biology & Medicine,NULL,32:55.4,32:55.4,TRUE,NULL
+8,Engineered Technologies,NULL,33:08.1,33:08.1,TRUE,NULL
+9,Mathematics,NULL,36:28.6,36:28.6,TRUE,NULL
+10,Energy,NULL,37:29.6,37:29.6,TRUE,NULL
+11,Social Sciences,NULL,37:40.3,37:40.3,TRUE,NULL
+12,Space Sciences,NULL,37:49.6,37:49.6,TRUE,NULL
+18,IEEE Spectrum,NULL,48:01.5,58:09.0,TRUE,FALSE
+22,Combo Edits Contest,short-term experiment from APR 23 to MAY 22,39:34.7,11:27.4,FALSE,FALSE

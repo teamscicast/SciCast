@@ -1,0 +1,15 @@
+id,group_id,user_id,name,description,priority,is_active
+1,NULL,NULL,Marketing Questions,Active Marketing Questions,NULL,TRUE
+2,NULL,NULL,College Bowl Top,College Bowl,NULL,FALSE
+5,NULL,NULL,Terms have changed,NULL,3,FALSE
+3,NULL,NULL,Recommender Update Top,"Was the original QuickTrade and Recommender; Tried to change, but didn't know we needed to change name to get it to show. Created new Banner 8 instead.",0,FALSE
+8,NULL,NULL,Recommender Update Top2,Prompt people to try the recommender.,1,FALSE
+4,NULL,NULL,Recurring Trades Top,Link to blog post about new recurring trade and spam updates,4,FALSE
+10,NULL,NULL,Recommender Survey+Incentive,Recommender Survey +Incentive,1,FALSE
+11,NULL,NULL,Surveys,Surveys,1,FALSE
+7,NULL,NULL,Training,Training Courses,1,FALSE
+6,NULL,NULL,Accuracy Incentives,NULL,1,FALSE
+9,NULL,NULL,Recommender Survey,Recommender survey,1,FALSE
+12,NULL,NULL,Combo Edits Contest,Combo Edits Contest,1,FALSE
+13,NULL,NULL,Webinar,Webinar,1,FALSE
+14,NULL,NULL,SciCast Summer Break,SciCast Summer Break,1,TRUE

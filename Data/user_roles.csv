@@ -1,0 +1,137 @@
+id,name,created_at,updated_at,description,referral_code
+40,Georgia Institute of Technology (Georgia Tech),13:58.4,18:35.0,NULL,Georgia Institute of Technology (Georgia Tech)
+5,SuperAdmin,37:23.9,19:17.9,NULL,NULL
+62,Creighton University,14:03.7,42:28.1,NULL,Creighton University
+28,Universirty of Massachusetts (Amherst),13:55.2,13:55.2,NULL,Universirty of Massachusetts (Amherst)
+29,The University of Rhode Island,13:55.4,13:55.4,NULL,The University of Rhode Island
+30,University of Richmond,13:55.8,13:55.8,NULL,University of Richmond
+58,University of Texas (Austin),14:02.8,00:57.9,NULL,University of Texas (Austin)
+31,Saint Joseph's University,13:56.1,13:56.1,NULL,Saint Joseph's University
+10,Autotrader,37:23.9,00:31.7,NULL,NULL
+33,St. Bonaventure University,13:56.5,13:56.5,NULL,St. Bonaventure University
+41,University of Maryland,13:58.6,53:16.9,NULL,University of Maryland
+34,UNC Charlotte,13:56.7,13:56.7,NULL,UNC Charlotte
+44,University of North Carolina (Chapel Hill),13:59.5,59:48.1,NULL,University of North Carolina (Chapel Hill)
+60,West Virginia University,14:03.2,38:22.9,NULL,West Virginia University
+26,The George Washington University,13:54.5,03:50.7,NULL,The George Washington University
+37,Clemson University,13:57.3,13:57.3,NULL,Clemson University
+54,Kansas State University,14:01.7,31:56.0,NULL,Kansas State University
+4,Internal,37:23.9,18:06.4,NULL,NULL
+15,Public,36:43.5,11:48.1,NULL,NULL
+48,University of Virginia,14:00.4,39:02.1,NULL,University of Virginia
+1,Admin,37:23.9,17:49.8,NULL,NULL
+43,University of Notre Dame,13:59.3,13:59.3,NULL,University of Notre Dame
+45,North Carolina State University,13:59.8,13:59.8,NULL,North Carolina State University
+18,BAE,05:41.7,13:58.7,Questions created by BAE,NULL
+46,University of Pittsburgh,14:00.0,14:00.0,NULL,University of Pittsburgh
+16,Invalid Questions,14:51.3,14:06.3,"Put invalid questions in this role, and remove them from all other roles.",NULL
+47,Syracuse University,14:00.2,14:00.2,NULL,Syracuse University
+17,GroupsAdmin,58:37.6,18:03.7,NULL,NULL
+50,Wake Forest University,14:00.9,14:00.9,NULL,Wake Forest University
+51,Baylor University,14:01.1,26:35.7,NULL,Baylor University
+49,Virginia Tech,14:00.6,09:28.0,NULL,Virginia Tech
+11,RolesAdmin,04:07.8,43:43.5,NULL,NULL
+55,The University of Oklahoma,14:02.2,14:02.2,NULL,The University of Oklahoma
+56,Oklahoma State University,14:02.4,14:02.4,NULL,Oklahoma State University
+57,Texas Christian University,14:02.6,14:02.6,NULL,Texas Christian University
+61,Butler University,14:03.5,14:03.5,NULL,Butler University
+19,SRI,05:52.0,33:48.9,Questions created by SRI,NULL
+22,University of Dayton,13:53.4,27:02.1,NULL,University of Dayton
+32,Saint Louis University,13:56.3,12:07.5,NULL,Saint Louis University
+42,University of Miami,13:58.8,27:54.3,NULL,University of Miami
+135,FUSE,57:05.2,57:05.2,Questions inspired by FUSE (subset of BAE &amp; SRI Qs),NULL
+39,Florida State University,13:58.0,56:58.7,NULL,Florida State University
+59,Texas Tech University,14:03.0,03:31.0,NULL,Texas Tech University
+6,UserAdmin,37:23.9,32:49.4,NULL,NULL
+7,EmailAdmin,37:23.9,54:47.8,NULL,NULL
+2,System,37:23.9,12:51.2,NULL,NULL
+52,Iowa State University,14:01.3,14:32.3,NULL,Iowa State University
+8,TradeAdmin,37:23.9,43:50.4,NULL,NULL
+27,La Salle University,13:55.0,37:24.2,NULL,La Salle University
+133,TRADOC,57:49.3,49:56.6,NULL,TRADOC
+23,Duquesne University,13:53.6,20:53.3,NULL,Duquesne University
+35,Virginia Commonwealth University,13:56.9,43:47.4,NULL,Virginia Commonwealth University
+24,Fordham University,13:53.8,16:44.6,NULL,Fordham University
+38,Duke University,13:57.5,42:28.8,NULL,Duke University
+63,DePaul University,14:03.9,54:14.9,NULL,DePaul University
+136,Tournament,52:12.3,44:55.2,NULL,NULL
+20,IEEE,33:53.9,40:51.9,Questions created by IEEE,IEEE_Fellows
+12,BadgesAdmin,04:07.8,43:34.1,NULL,NULL
+21,IEEE Fellows,08:19.1,39:55.6,NULL,NULL
+64,Georgetown University,14:04.1,18:25.3,NULL,Georgetown University
+36,Boston College,13:57.1,38:25.0,NULL,Boston College
+25,George Mason University,13:54.3,48:51.9,NULL,George Mason University
+9,QuestionAdmin,37:23.9,18:22.3,NULL,NULL
+83,Arizona State University,14:10.8,57:08.1,NULL,Arizona State University
+67,St. Johns University,14:05.2,14:05.2,NULL,St. Johns University
+69,Villanova University,14:05.6,14:05.6,NULL,Villanova University
+70,Xavier University,14:05.8,14:05.8,NULL,Xavier University
+77,University of Nebraska (Lincoln),14:09.3,14:09.3,NULL,University of Nebraska (Lincoln)
+78,The Ohio State University,14:09.5,14:09.5,NULL,The Ohio State University
+82,The University of Arizona,14:10.6,14:10.6,NULL,The University of Arizona
+111,United States Naval Academy,14:20.7,55:15.9,NULL,United States Naval Academy
+65,Marquette University,14:04.5,42:31.6,NULL,Marquette University
+94,The University of Alabama,14:14.4,14:14.4,NULL,The University of Alabama
+98,University of Georgia,14:16.0,14:16.0,NULL,University of Georgia
+99,University of Kentucky,14:16.2,14:16.2,NULL,University of Kentucky
+101,The University of Mississippi,14:16.6,14:16.6,NULL,The University of Mississippi
+103,University of Missouri,14:17.3,14:17.3,NULL,University of Missouri
+104,University of South Carolina,14:17.5,14:17.5,NULL,University of South Carolina
+105,The University of Tennessee,14:18.0,14:18.0,NULL,The University of Tennessee
+110,University of Idaho,14:20.2,14:20.2,NULL,University of Idaho
+113,United States Coast Guard Academy,14:21.4,14:21.4,NULL,United States Coast Guard Academy
+115,Notre Dame,14:21.8,14:21.8,NULL,Notre Dame
+116,Brown University,14:22.3,14:22.3,NULL,Brown University
+128,State University of New York at Buffalo,14:25.3,14:25.3,NULL,State University of New York at Buffalo
+72,Indiana University (Bloomington),14:06.3,03:26.3,NULL,Indiana University (Bloomington)
+108,United States Military Academy,14:19.8,57:22.5,NULL,United States Military Academy
+53,The University of Kansas,14:01.5,26:35.7,NULL,The University of Kansas
+106,Texas A&M University,14:18.2,15:19.4,NULL,Texas A&M University
+126,"University of California, Berkeley",14:24.9,49:57.0,NULL,"University of California, Berkeley"
+75,Michigan State University,14:08.8,09:23.8,NULL,Michigan State University
+100,Louisiana State University,14:16.4,39:52.1,NULL,Louisiana State University
+95,University of Arkansas,14:14.6,56:50.0,NULL,University of Arkansas
+84,University of California (Cal),14:11.2,54:32.7,NULL,California
+122,Princeton University,14:24.0,38:53.7,NULL,Princeton University
+71,University of Illinois (Urbana-Champaign),14:06.0,17:07.0,NULL,University of Illinois (Urbana-Champaign)
+121,University of Pennsylvania,14:23.8,13:45.4,NULL,University of Pennsylvania
+96,Auburn University,14:14.8,57:18.2,NULL,Auburn University
+81,University of Wisconsin,14:10.3,46:48.8,NULL,University of Wisconsin
+88,Stanford University,14:12.6,31:36.2,NULL,Stanford University
+134,IEEE_TRADOC,58:08.3,49:36.5,NULL,IEEE_TRADOC
+125,California Institute of Technology (Cal Tech),14:24.7,42:20.4,NULL,California Institute of Technology (Cal Tech)
+117,Columbia University,14:22.7,54:50.0,NULL,Columbia University
+127,Northwestern University,14:25.1,42:54.6,NULL,Northwestern University
+118,Cornell University,14:23.2,31:43.4,NULL,Cornell University
+107,Vanderbilt University,14:19.5,22:45.0,NULL,Vanderbilt University
+124,Massachusetts Institute of Technology,14:24.5,01:28.4,NULL,Massachusetts Institute of Technology
+66,Providence College,14:05.0,51:25.3,NULL,Providence College
+97,University of Florida,14:15.0,05:29.3,NULL,University of Florida
+109,Brigham Young University,14:20.0,45:26.9,NULL,Brigham Young University
+87,Oregon State University,14:12.4,05:05.6,NULL,Oregon State University
+74,University of Michigan,14:08.6,45:48.3,NULL,University of Michigan
+76,University of Minnesota,14:09.0,56:22.8,NULL,University of Minnesota
+86,University of Oregon,14:11.9,27:48.0,NULL,University of Oregon
+85,University of Colorado,14:11.7,11:00.8,NULL,University of Colorado
+73,The University of Iowa,14:06.5,21:23.8,NULL,The University of Iowa
+112,United States Air Force Academy,14:20.9,45:43.5,NULL,United States Air Force Academy
+119,Dartmouth College,14:23.4,23:00.4,NULL,Dartmouth College
+80,Purdue University,14:10.1,29:43.3,NULL,Purdue University
+68,Seton Hall University,14:05.4,29:58.1,NULL,Seton Hall University
+120,Harvard University,14:23.6,54:52.0,NULL,Harvard University
+79,Penn State University,14:09.9,08:01.7,NULL,Penn State University
+102,Mississippi State University,14:16.8,42:37.1,NULL,Mississippi State University
+92,University of Washington,14:14.0,16:59.7,NULL,University of Washington
+93,Washington State University,14:14.2,35:41.5,NULL,Washington State University
+91,University of Utah,14:13.7,08:47.4,NULL,University of Utah
+123,Yale University,14:24.3,55:40.6,NULL,Yale University
+129,Johns Hopkins,25:48.4,56:45.7,NULL,johnshopkins
+114,New Mexico State University,14:21.6,57:17.6,NULL,New Mexico State University
+89,"University of California, Los Angeles (UCLA)",14:13.1,28:05.1,NULL,"University of California, Los Angeles (UCLA)"
+90,University of Southern California (USC),14:13.5,45:52.1,NULL,University of Southern California (USC)
+132,BannerAdmin,35:00.9,32:58.8,NULL,NULL
+13,Study 2.1A,56:57.0,49:45.8,SciCast vs Quantitative Models,NULL
+14,Study 2.1B,30:43.0,49:52.2,SciCast vs Quantitative Models,NULL
+130,CollegeBowl,52:53.6,25:33.0,Any forecaster or question involved in the College Bowl should be added to the CollegeBowl group.,NULL
+3,User,37:23.9,28:13.0,NULL,NULL
+131,Got email?,50:02.9,07:59.9,Group for people who have not provided email addresses for important messages,131

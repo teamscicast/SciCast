@@ -1,0 +1,21 @@
+id,name,description,priority,created_at,updated_at
+11,Ununoctium,Forecaster has earned 1+2+4+8+16+32+64=127 merit points for comments or trades during a SciCast special.,54,05:39.6,10:21.2
+17,Phylum,NULL,42,20:21.3,11:18.9
+8,Krypton,Forecaster has earned 1+2+4+8=15 merit points for comments or trades during a SciCast special.,57,07:44.0,19:05.6
+9,Xenon,Forecaster has earned 1+2+4+8+16=31 merit points for comments or trades during a SciCast special.,56,51:37.0,51:32.4
+7,Argon,Forecaster has earned 1+2+4=7 merit points for comments or trades during a SciCast special.,58,05:51.6,19:07.2
+2,Author,Forecaster has published at least one question from Spark to Predict.,90,17:01.0,48:08.4
+20,KNOW,Pass KNOW quiz with at least 80% accuracy,NULL,15:25.7,28:11.4
+5,Neon,Forecaster has earned 1+2=3 merit points for comments or trades during a SciCast special.,59,00:34.1,19:14.8
+19,CHAMPS,Pass CHAMPS quiz with at least 80% accuracy,NULL,15:03.7,33:28.6
+10,Radon,Forecaster has earned 1+2+4+8+16+32=63 merit points for comments or trades during a SciCast special.,55,52:27.4,02:39.6
+14,Family,NULL,45,19:33.2,18:25.0
+3,Contributor,"Forecaster participates on Spark, writing, revising, or commenting on questions.",80,17:53.1,42:44.8
+6,Helium,Forecaster has earned 1 merit point for comments or trades during a SciCast special.,60,04:57.2,27:47.3
+15,Order,NULL,44,19:49.8,21:09.7
+1,Topic Leader,"Forecaster manages a topic area on Spark, reviewing questions for quality and recommending for publication when ready.",100,15:56.6,15:09.5
+13,Genus,NULL,46,19:19.3,21:11.3
+16,Class,NULL,43,20:06.9,21:12.9
+12,Species,NULL,47,19:01.4,21:14.6
+4,SysAdmin,SciCast System Administrator,1000,41:22.7,23:58.2
+18,Kingdom,NULL,41,20:38.9,08:35.1
