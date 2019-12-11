@@ -1,0 +1,45 @@
+﻿> library(anytime)
+> tat <- anydate(binaryquestions$last_traded_at)
+> binaryquestions$diff_in_days <- difftime(tat,tas, units = c("days"))
+
+
+
+
+
+
+> library(faraway)
+> library(MASS)
+> fullmodel = lm(CategoryQBSBINARYsettled$qbs ~ CategoryQBSBINARYsettled$difftime_tradedays)
+Error in eval(predvars, data, env) : 
+  object 'CategoryQBSBINARYsettled' not found
+> CategoryQBSBINARYsettled <- read.csv("~/Downloads/CategoryQBSBINARYsettled.csv")
+>   View(CategoryQBSBINARYsettled)
+> fullmodel = lm(CategoryQBSBINARYsettled$qbs ~ CategoryQBSBINARYsettled$difftime_tradedays)
+> plot(fullmodel)
+Hit <Return> to see next plot: 
+Hit <Return> to see next plot: 
+Hit <Return> to see next plot: 
+Hit <Return> to see next plot: 
+> bc = boxcox(fullmodel, lambda = seq(-3,3))
+> best.lam=bc$x[which(bc$y==max(bc$y))]
+> best.lam
+[1] 0.3939394
+> fullmodel.inv = lm((CategoryQBSBINARYsettled$qbs)^0.4 ~ CategoryQBSBINARYsettled$difftime_tradedays)
+> > plot(fullmodel)
+Error: unexpected '>' in ">"
+> fullmodel.inv = lm((CategoryQBSBINARYsettled$qbs)^0.4 ~ CategoryQBSBINARYsettled$difftime_tradedays)
+> plot(fullmodel.inv)
+Hit <Return> to see next plot: 
+Hit <Return> to see next plot: 
+Hit <Return> to see next plot: 
+Hit <Return> to see next plot: 
+> fullmodel.inv
+
+
+Call:
+lm(formula = (CategoryQBSBINARYsettled$qbs)^0.4 ~ CategoryQBSBINARYsettled$difftime_tradedays)
+
+
+Coefficients:
+                                (Intercept)  CategoryQBSBINARYsettled$difftime_tradedays  
+                                  0.3752834                                    0.0004842
